@@ -1,0 +1,25 @@
+.fetIconStyle {
+    text-align: center; 
+    font-size: 55px; 
+    margin-top: 10px;
+}
+
+.navFotterStyle > .nav-item > .nav-link{
+    color:white
+}
+
+.reviewStyle blockquote{
+    font-size: 18px;
+}
+
+.footerMenuLinkstyle a {
+    text-decoration: none;
+}
+
+.footerSubMenuLinkstyle li {
+    font-size: 15px;
+}
+
+.footerSubMenuLinkstyle a {
+    color: white;
+}
